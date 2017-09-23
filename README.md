@@ -12,7 +12,9 @@ Deleted css/index.css for this project
 
 # Started layout for Gallery page
 
-Added a div and an h1 
+Added a div and an h1
+
+Added a div for the clickable link (inspirational figures) in the header and  a picture of Nikola Tesla
 
 
 >>>>>>> 60314438a49c26edf618af0ccbb1a4045e67527b
