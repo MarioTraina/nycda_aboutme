@@ -19,7 +19,13 @@ Added a div for the clickable link (inspirational figures) in the header and  a 
 
 ## Added image of Feynman for header link with brief description.
 
-added some more images of Feynman
+Added some more images of Feynman
+
+Added image and brief description of Alan Watts
+
+
+
+
 
 
 
