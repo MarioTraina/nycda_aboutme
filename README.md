@@ -23,6 +23,8 @@ Added some more images of Feynman
 
 Added image and brief description of Alan Watts
 
+put alt attributes in for all images.
+
 
 
 
