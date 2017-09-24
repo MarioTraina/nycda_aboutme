@@ -25,6 +25,10 @@ Added image and brief description of Alan Watts
 
 put alt attributes in for all images.
 
+## navigation
+
+Added navigation links between "About Me" page and "Gallery" page.
+
 
 
 
