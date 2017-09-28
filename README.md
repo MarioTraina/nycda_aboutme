@@ -1,7 +1,5 @@
 # nycda_aboutme
-<<<<<<< HEAD
-testing to see if this shows up in github
-=======
+
 Initalizing second part of the "About me" project.
 
 testing once more!
